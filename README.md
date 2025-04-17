@@ -3,7 +3,7 @@
 
 ## 📌 Why This Exists
 
-As a frontend engineer actively learning, interviewing, and mentoring, I wanted a single place where I can:
+As a frontend engineer actively learning, and interviewing, I wanted a single place where I can:
 - Quickly revise before interviews
 - Share structured notes & solutions
 - Track growth in performance optimization

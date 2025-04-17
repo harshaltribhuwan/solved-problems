@@ -1,6 +1,4 @@
 
----
-
 ## 📌 Why This Exists
 
 As a frontend engineer actively learning, and interviewing, I wanted a single place where I can:

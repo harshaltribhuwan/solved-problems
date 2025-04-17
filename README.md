@@ -13,7 +13,6 @@ As a frontend engineer actively learning, and interviewing, I wanted a single pl
 
 1. Browse folders based on your current focus (React, JS, Mock Interviews).
 2. Each file contains:
-   - ✨ Concept explanations
    - 🧩 Code examples
    - 🐛 Common errors
    - 🎯 Interview-style questions

@@ -1,7 +1,8 @@
 ## Functions
 
 Question 1: Function Code
-Explanation: This code defines a function square that calculates the square of a number and a function displaySquare that logs the square of 5 using the square function.
+**Explanation:** 
+This code defines a function square that calculates the square of a number and a function displaySquare that logs the square of 5 using the square function.
 
 Question 2: What is IIFE?
 Explanation: IIFE stands for Immediately Invoked Function Expression. It is a function that is executed immediately after it is defined. Example 1 shows a simple IIFE, while Example 2 demonstrates an IIFE with nested functions.

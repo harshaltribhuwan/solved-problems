@@ -1,3 +1,4 @@
+## Functions
 
 Question 1: Function Code
 Explanation: This code defines a function square that calculates the square of a number and a function displaySquare that logs the square of 5 using the square function.

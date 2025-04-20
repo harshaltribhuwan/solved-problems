@@ -7,8 +7,6 @@ As a frontend engineer actively learning, and interviewing, I wanted a single pl
 - Track growth in performance optimization
 - Prep for high-impact tech rounds
 
----
-
 ## 📈 How to Use
 
 1. Browse folders based on your current focus (React, JS, Mock Interviews).
